@@ -1,0 +1,9 @@
+fun same_name() {
+    print "first function";
+}
+
+fun same_name() {
+    print "second function";
+}
+
+same_name();
